@@ -74,7 +74,7 @@ body {
     }
 
     a {
-      @apply cursor-pointer text-nowrap md:text-base text-sm;
+      @apply cursor-pointer text-nowrap md:text-[.9rem] text-sm;
     }
 
     ul {
@@ -119,11 +119,11 @@ body {
           @apply space-y-5 text-lg lg:max-w-2xs md:max-w-xs w-full;
 
           p {
-            @apply text-left;
+            @apply text-left text-[.975rem];
           }
 
           a {
-            @apply font-semibold opacity-80 2xl:text-start text-center hover:text-yellow;
+            @apply font-semibold opacity-80 2xl:text-start text-[.96rem] text-center hover:text-yellow;
           }
         }
       }
