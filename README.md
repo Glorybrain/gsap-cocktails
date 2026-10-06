@@ -2,6 +2,8 @@
 
 A scroll-driven cocktail bar landing page built with **React 19, GSAP 3 and Tailwind CSS v4**. The project focuses on motion design: split-text reveals, parallax, pinned sections and a hero video that scrubs frame by frame as you scroll.
 
+**🔗 Live demo:** https://gsap-cocktails-iota-one.vercel.app
+
 ## ✨ Highlights
 
 - **Split-text hero reveal**: GSAP `SplitText` breaks the title into characters and the subtitle into lines, then staggers them in with an `expo.out` ease.
